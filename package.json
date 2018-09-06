@@ -1,0 +1,10 @@
+{
+  "name": "graphqlclonejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dushyant <6dushyantmishra20101@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.16.2"
+  }
+}
